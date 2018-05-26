@@ -1150,4 +1150,3 @@ private getHextoXY(String colorStr) {
 
 
 def getDeviceType() { return "lights" }
-
